@@ -9,3 +9,4 @@ models
 
 # compiled python files
 *.pyc
+/.project
